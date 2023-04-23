@@ -1,5 +1,4 @@
 
-### About
 Experienced Associate Manager with 8+ years’ experience & excellent deadline record in Integrated Service & Escalation Management, Service delivery & Cloud technologies. Seeking to secure a challenging project management role with a thriving, growing company to apply management, leadership and motivational skills while overseeing a team of professionals and working toward a common goal to increase productivity.
 
 ### Skill Set
