@@ -8,7 +8,7 @@ Service Delivery and Project Management, Client & Operations Management, Service
 Linux, ITIL, Cloud (Azure)
 #### Tools: 
 HPSM, Manage engine, ServiceNow, Splunk, JIRA, Slack, Microsoft Suite, Power BI
-##### Interpersonal Skills: 
+#### Interpersonal Skills: 
 Detail-oriented self-driven leader, Keen eye for details with out of the box thinking and offbeat ideas
 
 #### Work History
