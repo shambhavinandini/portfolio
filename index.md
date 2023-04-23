@@ -1,5 +1,5 @@
 
-### About:
+### About
 Experienced Associate Manager with 8+ years’ experience & excellent deadline record in Integrated Service & Escalation Management, Service delivery & Cloud technologies. Seeking to secure a challenging project management role with a thriving, growing company to apply management, leadership and motivational skills while overseeing a team of professionals and working toward a common goal to increase productivity.
 
 ### Skill Set
@@ -51,17 +51,17 @@ Detail-oriented self-driven leader, Keen eye for details with out of the box thi
 * Spearheaded offshore project “E.ON” for Desktop operational support and application maintenance for over 25 million customers spanning 30 countries to Windows 7/Microsoft Office16 using RDP & Cisco Any Connect
 * Debugged application problems over call/email/chat as SPOC ensuring >90% customer Satisfaction.
 ### Certifications
-###### Google Project Management (2023-02)
-###### Service Integration and Management (SIAM) (2019-11)
-###### AZ-900 (2020-08)
-###### ITIL Foundation (2019-01)
-###### Agile and Scrum Master (2020-01)
-###### ITSM Cloud Certification (2016-12)
+* Google Project Management (2023-02)
+* Service Integration and Management (SIAM) (2019-11)
+* AZ-900 (2020-08)
+* ITIL Foundation (2019-01)
+* Agile and Scrum Master (2020-01)
+* ITSM Cloud Certification (2016-12)
 ### Accomplishments
-###### ACE AWARD - Extra Mile Award (Q2’22)
-###### ACE AWARD - Client & Customer category (Q3’22)
-###### CHANGE CATALYST Award (Q3’21)
-###### PARYAVARAN RATANA AWARD - EVS (2019)
+* ACE AWARD - Extra Mile Award (Q2’22)
+* ACE AWARD - Client & Customer category (Q3’22)
+* CHANGE CATALYST Award (Q3’21)
+* PARYAVARAN RATANA AWARD - EVS (2019)
 ### Education
-###### B.Tech: Electronics And Communications Engineering
-###### Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
+* B.Tech: Electronics And Communications Engineering
+**  Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
