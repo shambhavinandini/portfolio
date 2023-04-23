@@ -1,17 +1,17 @@
 
 Experienced Associate Manager with 8+ years’ experience & excellent deadline record in Integrated Service & Escalation Management, Service delivery & Cloud technologies. Seeking to secure a challenging project management role with a thriving, growing company to apply management, leadership and motivational skills while overseeing a team of professionals and working toward a common goal to increase productivity.
 
-### Skill Set
-#### Core Competencies:
-Service Delivery and Project Management, Client & Operations Management, Service Management
-#### Technical Proficiencies: 
-Linux, ITIL, Cloud (Azure)
-#### Tools: 
-HPSM, Manage engine, ServiceNow, Splunk, JIRA, Slack, Microsoft Suite, Power BI
-#### Interpersonal Skills: 
-Detail-oriented self-driven leader, Keen eye for details with out of the box thinking and offbeat ideas
+## Skill Set
+### Core Competencies:
+&emsp; Service Delivery and Project Management, Client & Operations Management, Service Management
+### Technical Proficiencies: 
+&emsp; Linux, ITIL, Cloud (Azure)
+### Tools: 
+&emsp; HPSM, Manage engine, ServiceNow, Splunk, JIRA, Slack, Microsoft Suite, Power BI
+### Interpersonal Skills: 
+&emsp; Detail-oriented self-driven leader, Keen eye for details with out of the box thinking and offbeat ideas
 
-#### Work History
+## Work History
 
 ##### (2022-06 - Current) Cloud Service Operations Assoc. Manager, Accenture Solutions Pvt. Ltd, Pune
 
@@ -49,7 +49,7 @@ Detail-oriented self-driven leader, Keen eye for details with out of the box thi
 * Spearheaded offshore project “E.ON” for Desktop operational support and application maintenance for over 25 million customers spanning 30 countries to Windows 7/Microsoft Office16 using RDP & Cisco Any Connect
 * Debugged application problems over call/email/chat as SPOC ensuring >90% customer Satisfaction.
 
-### Certifications
+## Certifications
 * Google Project Management (2023-02)
 * Service Integration and Management (SIAM) (2019-11)
 * AZ-900 (2020-08)
@@ -57,12 +57,12 @@ Detail-oriented self-driven leader, Keen eye for details with out of the box thi
 * Agile and Scrum Master (2020-01)
 * ITSM Cloud Certification (2016-12)
 
-### Accomplishments
+## Accomplishments
 * ACE AWARD - Extra Mile Award (Q2’22)
 * ACE AWARD - Client & Customer category (Q3’22)
 * CHANGE CATALYST Award (Q3’21)
 * PARYAVARAN RATANA AWARD - EVS (2019)
 
-### Education
+## Education
 * B.Tech: Electronics And Communications Engineering
 **  Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
