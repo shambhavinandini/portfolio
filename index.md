@@ -45,11 +45,11 @@ Detail-oriented self-driven leader, Keen eye for details with out of the box thi
 * Engaged in Partner delivery management for SAP SuccessFactors, Facilitated HCM Product Support, Configuration, * RMK Site designing for SAP Partners and increased resolution time-line by 20%.
 * Shift lead across regions for queue management and Incident triaging while ensuring SLA stability.
 
-##### (2014-07 - 2015-11)HEWLETT PACKARD for ADECCO INDIA, Bengaluru
-##### Technical Service Desk Engineer
+##### (2014-07 - 2015-11)HEWLETT PACKARD for ADECCO INDIA, Bengaluru <br> Technical Service Desk Engineer
 
 * Spearheaded offshore project “E.ON” for Desktop operational support and application maintenance for over 25 million customers spanning 30 countries to Windows 7/Microsoft Office16 using RDP & Cisco Any Connect
 * Debugged application problems over call/email/chat as SPOC ensuring >90% customer Satisfaction.
+
 ### Certifications
 * Google Project Management (2023-02)
 * Service Integration and Management (SIAM) (2019-11)
@@ -57,11 +57,13 @@ Detail-oriented self-driven leader, Keen eye for details with out of the box thi
 * ITIL Foundation (2019-01)
 * Agile and Scrum Master (2020-01)
 * ITSM Cloud Certification (2016-12)
+
 ### Accomplishments
 * ACE AWARD - Extra Mile Award (Q2’22)
 * ACE AWARD - Client & Customer category (Q3’22)
 * CHANGE CATALYST Award (Q3’21)
 * PARYAVARAN RATANA AWARD - EVS (2019)
+
 ### Education
 * B.Tech: Electronics And Communications Engineering
 **  Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
