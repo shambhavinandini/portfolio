@@ -60,11 +60,11 @@ Debugged application problems over call/email/chat as SPOC ensuring >90% custome
 ###### ITIL Foundation (2019-01)
 ###### Agile and Scrum Master (2020-01)
 ###### ITSM Cloud Certification (2016-12)
-###### Accomplishments
+#### Accomplishments
 ###### ACE AWARD - Extra Mile Award (Q2’22)
 ###### ACE AWARD - Client & Customer category (Q3’22)
 ###### CHANGE CATALYST Award (Q3’21)
 ###### PARYAVARAN RATANA AWARD - EVS (2019)
-##### Education
+#### Education
 ###### B.Tech: Electronics And Communications Engineering
-Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
+###### Visvesvaraya Technological University (VTU) - Bangalore (2010-09 - 2014-06)
