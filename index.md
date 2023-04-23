@@ -1,8 +1,4 @@
-# Shambhavi Nandini
-## Cloud Service Operations Assoc. Manager
-##### Address: Pune, 411046
-##### Contact: +91 9741699318
-##### E-mail: nandinishambhavi@gmail.com
+
 ### About:
 Experienced Associate Manager with 8+ years’ experience & excellent deadline record in Integrated Service & Escalation Management, Service delivery & Cloud technologies. Seeking to secure a challenging project management role with a thriving, growing company to apply management, leadership and motivational skills while overseeing a team of professionals and working toward a common goal to increase productivity.
 
